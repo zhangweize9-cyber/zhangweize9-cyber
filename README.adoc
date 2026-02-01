@@ -1,6 +1,15 @@
 = Introduction
+
+----
 - Hello everyone! I'm original cooling space.
 - I'm 17 years old, and I'm at most a junior programmer.
 - I'm new here, so please be kind to me!
 - My best programming languages are bash and lua, and I'm currently learning cpp.
 - When I'm learning cpp, I sometimes refer to the source code of open-source projects, and I'm still keep learning...
+----
+
+= TODO
+
+* [ ] Writting a debugging tools base on cpp language.
+* [ ] Improve the stability of my own neovim distribution.
+* [ ] Using bash, lua, clang, rust, make and cmake build a tool.
