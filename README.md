@@ -1,1 +1,1 @@
-[Here are introduce myself.](./README.adoc)
+[Here are introduce myself.](./doc/INTRODUCTION.adoc)
