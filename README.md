@@ -21,13 +21,13 @@ struct Question_Answer {
     std::vector<std::string> opinions;
 };
 
-// Step 3
+// Step 3 [^1] [^protips]
 // You can create a function to execuable system command.
 // That's too difficult! I'm too lazy to explain. ¯\_(ツ)_/¯
 void safe_execute(std::string cmd) {
     std::string audit_cmd = cmd;
     std::transform(audit_cmd.begin(), audit_cmd.end(), audit_cmd.begin(), ::tolower);
-    std::vector<std::string> blacklist = {"rm", "sudo", "chmod"};
+    std::vector<std::string> blacklist = {"rm", "sudo", "chmod", "chown", "mkfs"};
     for (const auto& danger : blacklist) {
         if (audit_cmd.find(danger) != std::string::npos) {
             std::cout << "[Friendly reminder] The following commands are potentially dangerous; please think carefully before using them!" << danger << std::endl;
@@ -87,7 +87,7 @@ int main() {
     return 0;
 }
 
-// Step 8
+// Step 8 [^2]
 // If you are the vim/neovim user:
 // 1. Input `vim do-it-yourseif.cpp` or `nvim do-it-yourself` and type ENTER in your terminal.
 // 2. Input `i`, start to the insert mode.
@@ -96,9 +96,15 @@ int main() {
 // 5. Input `:` switch the command mode.
 // 6. Input `:wq` and type ENTER means write and quit.
 // 7. And that's it! Type `g++ do-it-yourself.cpp -o do-it-yourself` and type ENTER in your terminal.
-// 8. And wait......
+// 8. And wait...... [^do-it-yourseif]
 // 9. When you start your program, you can type `./do-it-yourself` and ENTER.
 // 10. Congratulations! You have learned how to write a very basic Linux program!
 ```
 
-[Here are introduce myself.](./doc/INTRODUCTION.adoc)
+[^1]: [Here are introduce myself.](./doc/INTRODUCTION.adoc)
+
+[^2]: To be honest, I'm not good at communicating in English. So I often use generative tools and translation software to polish my language. I've also been working hard to memorize core IELTS vocabulary, hoping to be able to write a pure English article on my own as soon as possible without the software!
+
+[^protips]: Be careful! Always perform a full backup of the code before performing any dangerous operations! Also, and yes, I don't want you to use what I've taught you to do things that might be incomprehensible to those around you, but also very frightening!
+
+[^do-it-yourself]: I encourage you to keep exploring and trying as you learn a skill.
