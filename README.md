@@ -1,5 +1,3 @@
-[Here are introduce myself.](./doc/INTRODUCTION.adoc)
-
 ```cpp
 // Step 1
 // Import some builtin libraries.
@@ -65,3 +63,5 @@ int main() {
 // 9. When you start your program, you can type `./do-it-yourself` and ENTER.
 // 10. Congratulations! You have learned how to write a very basic Linux program!
 ```
+
+[Here are introduce myself.](./doc/INTRODUCTION.adoc)

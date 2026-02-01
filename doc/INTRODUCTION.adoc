@@ -1,11 +1,26 @@
 = Introduction
 
 ----
+  Introduce myself
 - Hello everyone! I'm original cooling space.
+  Age and background
 - I'm 17 years old, and I'm at most a junior programmer.
+  Personaility
 - I'm new here, so please be kind to me!
+  I'm good at......
 - My best programming languages are bash and lua, and I'm currently learning cpp.
 - When I'm learning cpp, I sometimes refer to the source code of open-source projects, and I'm still keep learning...
+
+  Life experience
+- However, I'm writting a neovim release about sparenvim at @the-essence-of-life.
+- Because I lost all my two-factor authentication methods and forgot to back up my public and private keys, I couldn't log in.
+  At the time, I downloaded Termux on my mom's phone, an app developed for the oppo a55.
+- My dream is want to be an android developer.
+- But the gradle and the kotlin has a bit difficult.
+- Before, I learned android develop at AIDE.
+- Because my family think learning computer has a little difficult.
+- So I start lessoning computer knowledge at Bilibili.
+- Four years later, now I'm learning university lessons at school.
 ----
 
 = TODO
@@ -13,3 +28,6 @@
 * [ ] Writting a debugging tools base on cpp language.
 * [ ] Improve the stability of my own neovim distribution.
 * [ ] Using bash, lua, clang, rust, make and cmake build a tool.
+* [ ] Develop a android software.
+* [ ] Took 5 years to update 20 tutorials on Bilibili.
+* [ ] Joining Google Summer of Code activity at the next year.
