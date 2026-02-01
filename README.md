@@ -110,7 +110,7 @@ int main() {
 - Do not execute `rm -rf /*` or `chmod 777 /*`! [^protips]
 - Keep it up! ^_^ I hope you all build a solid foundation! Otherwise, you'll end up in the same embarrassing situation as me, who isn't very good at English and has to use tools to polish my language! [^do-it-yourself]
 
-[^1]: [Here are introduce myself.](./doc/INTRODUCTION.adoc)
+[^1]: [Here are introduce myself.](https://github.com/zhangweize9-cyber/zhangweize9-cyber/blob/master/doc/INTRODUCTION.adoc)
 
 [^2]: To be honest, I'm not good at communicating in English. So I often use generative tools and translation software to polish my language. I've also been working hard to memorize core IELTS vocabulary, hoping to be able to write a pure English article on my own as soon as possible without the software!
 
