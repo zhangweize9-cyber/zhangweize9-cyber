@@ -31,3 +31,4 @@
 * [ ] Develop a android software.
 * [ ] Took 5 years to update 20 tutorials on Bilibili.
 * [ ] Joining Google Summer of Code activity at the next year.
+* [ ] Start writing a high-performance neovim package manager from scratch.
