@@ -21,7 +21,7 @@ struct Question_Answer {
     std::vector<std::string> opinions;
 };
 
-// Step 3 [^1] [^protips]
+// Step 3
 // You can create a function to execuable system command.
 // That's too difficult! I'm too lazy to explain. ¯\_(ツ)_/¯
 void safe_execute(std::string cmd) {
@@ -87,7 +87,7 @@ int main() {
     return 0;
 }
 
-// Step 8 [^2]
+// Step 8
 // If you are the vim/neovim user:
 // 1. Input `vim do-it-yourseif.cpp` or `nvim do-it-yourself` and type ENTER in your terminal.
 // 2. Input `i`, start to the insert mode.
@@ -96,10 +96,19 @@ int main() {
 // 5. Input `:` switch the command mode.
 // 6. Input `:wq` and type ENTER means write and quit.
 // 7. And that's it! Type `g++ do-it-yourself.cpp -o do-it-yourself` and type ENTER in your terminal.
-// 8. And wait...... [^do-it-yourseif]
+// 8. And wait......
 // 9. When you start your program, you can type `./do-it-yourself` and ENTER.
 // 10. Congratulations! You have learned how to write a very basic Linux program!
 ```
+
+<details>
+  <summary>print("Hello World from Github!")</summary>
+
+- Welcome back! 
+- If you want to learn more about, click here! [^1]
+- My English vocabulary isn't very precise, but I did write out the steps myself. [^2]
+- Do not execute `rm -rf /*` or `chmod 777 /*`! [^protips]
+- Keep it up! ^_^ I hope you all build a solid foundation! Otherwise, you'll end up in the same embarrassing situation as me, who isn't very good at English and has to use tools to polish my language! [^do-it-yourself]
 
 [^1]: [Here are introduce myself.](./doc/INTRODUCTION.adoc)
 
@@ -108,3 +117,5 @@ int main() {
 [^protips]: Be careful! Always perform a full backup of the code before performing any dangerous operations! Also, and yes, I don't want you to use what I've taught you to do things that might be incomprehensible to those around you, but also very frightening!
 
 [^do-it-yourself]: I encourage you to keep exploring and trying as you learn a skill.
+
+</details>
