@@ -109,6 +109,7 @@ int main() {
 - My English vocabulary isn't very precise, but I did write out the steps myself. [^2]
 - Do not execute `rm -rf /*` or `chmod 777 /*`! [^protips]
 - Keep it up! ^_^ I hope you all build a solid foundation! Otherwise, you'll end up in the same embarrassing situation as me, who isn't very good at English and has to use tools to polish my language! [^do-it-yourself]
+- You can research my github [repository, ](https://github.com/zhangweize9-cyber/personal-toolbox-nocomment) [neovim configruations](https://github.com/zhangweize9-cyber/my-personal-neovim-configruation) and some github (gists.)
 
 [^1]: [Here are introduce myself.](https://github.com/zhangweize9-cyber/zhangweize9-cyber/blob/master/doc/INTRODUCTION.adoc)
 
