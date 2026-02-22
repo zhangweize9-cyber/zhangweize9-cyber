@@ -1,11 +1,11 @@
 # FILE STRUCTURE
 
 > [!NOTE]
-> I will mark the addresses of the open-source projects I participate in. 
-> I usually use this command to automatically generate the directory tree: `tree -a -L 1 workspace/ github-project/ .config/` 
-> It was generated in the `$HOME` directory at that time. 
-> By the way, I'm using Arch Linux. 
-> The nerdfont font I'm currently using is [ComicShannsMono.](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/ComicShannsMono) 
+> I will mark the addresses of the open-source projects I participate in.  
+> I usually use this command to automatically generate the directory tree: `tree -a -L 1 workspace/ github-project/ .config/`  
+> It was generated in the `$HOME` directory at that time.  
+> By the way, I'm using Arch Linux.  
+> The nerdfont font I'm currently using is [ComicShannsMono.](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/ComicShannsMono)  
 
 - workspace
 
