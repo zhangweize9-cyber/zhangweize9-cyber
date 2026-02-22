@@ -10,22 +10,23 @@
 - workspace
 
 ```
+# NOTE: Here's my workspace.
 workspace/
-|-- arrows-programming-language
+|-- arrows-programming-language -> `https://github.com/zhangweize9-cyber/arrows-programming-language`
 |-- exam-program
-|-- my-github-personal-documention
+|-- my-github-personal-documention -> `https://github.com/zhangweize9-cyber/zhangweize9-cyber`
 |-- neovim-plugin-manager
 |-- rising-question
-`-- some-custom-tools
+`-- some-custom-tools -> `https://github.com/zhangweize9-cyber/personal-toolbox-nocomment`
 ```
 
 - maintained gitHub projects
 
-```bash
+```
 # NOTE: The source code for the following projects has been cloned solely for research purposes.
 github-project/
 |-- FFmpeg -> `https://github.com/FFmpeg/FFmpeg`
-|-- busybox -> `https://github.com/FFmpeg/FFmpeg`
+|-- busybox -> `https://github.com/mirror/busybox`
 |-- electron -> `https://github.com/electron/electron`
 |-- fnnas -> `https://github.com/ophub/fnnas`
 |-- linux-drivers -> `https://github.com/torvalds/linux`
@@ -38,6 +39,7 @@ github-project/
 - x desktop group configuration
 
 ```
+# NOTE: Here's my dot config.
 .config/
 |-- main-neovim-configruation
 |-- neovim-config.tar.xz
