@@ -41,11 +41,13 @@ github-project/
 ```
 # NOTE: Here's my dot config.
 .config/
-|-- main-neovim-configruation
+|-- main-neovim-configruation -> `https://github.com/zhangweize9-cyber/my-personal-neovim-configruation`
 |-- neovim-config.tar.xz
 |-- nvim -> main-neovim-configruation/
 |-- paru
 `-- sparenvim
+    |--> sparenvim: `https://github.com/the-essence-of-life/sparenvim`
+    `-->   starter: `https://github.com/the-essence-of-life/spare-nvim-starter`
 ```
 
 # A few small inspirations
