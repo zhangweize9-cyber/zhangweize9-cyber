@@ -49,4 +49,30 @@ quick_commit() {
         echo "Sync failed!"
     fi
 }
+
+# Quickly add a timestamp when submitting code.
+quick_commit_with_time() {
+    local timestamp=$(date +'%Y-%m-%d %H:%M:%S')
+    local comment="$1"
+    local final_msg=""
+
+    if [ -z "$comment" ]; then
+        final_msg="$timestamp - commit code with <author-name>."
+    else
+        final_msg="$timestamp - $comment"
+    fi
+
+    echo "-> Syncing with github..."
+    echo "-> Commit message: \"$final_msg\""
+    
+    git add . && \
+    git commit -m "$final_msg" && \
+    git push
+
+    if [ $? -eq 0 ]; then
+        echo "Sync successfully!"
+    else
+        echo "Sync failed!"
+    fi
+}
 ```
