@@ -29,4 +29,24 @@ alias mv='mv -i'
 # In the terminal, type `..` to go up one directory level, and type `...` to go up two directory levels.
 alias ..='cd ..'
 alias ...='cd ../..'
+
+# Quickly submit and push code.
+quick_commit() {
+    local msg="$1"
+    if [ -z "$msg" ]; then
+        msg="Update: $(date +'%Y-%m-%d %H:%M:%S')"
+    fi
+
+    echo "-> Syncing with github..."
+    
+    git add . && \
+    git commit -m "$msg" && \
+    git push
+
+    if [ $? -eq 0 ]; then
+        echo "Sync successfully!"
+    else
+        echo "Sync failed!"
+    fi
+}
 ```
