@@ -1,5 +1,16 @@
 # Contributor Covenant Code of Conduct
 
+## File Structure
+
+```
+.
+|-- CODE_OF_CONDUCT.md -> here.
+|-- README.md -> Self-Introduction.
+|-- doc/ -> It will contain some of my thoughts.
+|-- medium/ -> The Medium articles I've uploaded, including drafts, will be backed up here.
+`-- workflow-description/ -> This is where I typically upload my workflow documentation, which sometimes includes programming syntax notes I've compiled myself.
+```
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
