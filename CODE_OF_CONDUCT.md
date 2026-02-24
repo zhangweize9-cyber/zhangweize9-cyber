@@ -8,6 +8,7 @@
 |-- README.md -> Self-Introduction.
 |-- doc/ -> It will contain some of my thoughts.
 |-- medium/ -> The Medium articles I've uploaded, including drafts, will be backed up here.
+|-- quickly-generate-markdown-templates/ -> Precompiled build scripts and source code are available here for reference.
 `-- workflow-description/ -> This is where I typically upload my workflow documentation, which sometimes includes programming syntax notes I've compiled myself.
 ```
 
