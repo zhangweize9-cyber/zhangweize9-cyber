@@ -1,4 +1,20 @@
-![GitHub Developer Program Member](https://img.shields.io/badge/GitHub-Developer--Program--Member-2ea44f?style=flat&logo=github)
+<details open>
+<summary>Overview & Self-Introduction</summary>
+
+Hi everyone, I’m **original-cooling-space.** I’m an 18-year-old who’s really into low-level architecture! Gender: Male. You can also call me **the-essence-of-life.** I love playing rhythm games, and I’m interested in drawing. Right now, I’m a college student majoring in music education.
+
+</details>
+
+
+<details>
+<summary>Environmental Testing Scripts</summary>
+
+> [!NOTE]  
+> This is a test script that will be moved to GitHub Gists in the future.  
+> To run it, enter the following command in the terminal:  
+> ```bash  
+> g++ do-it-yourself.cpp -o do-it-yourself  
+> ```  
 
 ```cpp
 // Step 1
@@ -103,8 +119,14 @@ int main() {
 // 10. Congratulations! You have learned how to write a very basic Linux program!
 ```
 
+</details>
+
 <details>
-  <summary>print("Hello World from Github!")</summary>
+  <summary>\# Do not expand</summary>
+  
+```python
+print("Hello World from Github!")
+```
 
 - Welcome back! 
 - If you want to learn more about, click here! [^1]
@@ -113,6 +135,8 @@ int main() {
 - Keep it up! ^_^ I hope you all build a solid foundation! Otherwise, you'll end up in the same embarrassing situation as me, who isn't very good at English and has to use tools to polish my language! [^do-it-yourself]
 - You can research my github [repository, ](https://github.com/zhangweize9-cyber/personal-toolbox-nocomment) [neovim configruations](https://github.com/zhangweize9-cyber/my-personal-neovim-configruation) and some github [gists.](https://gist.github.com/zhangweize9-cyber)
 
+</details>
+
 [^1]: [Here are introduce myself.](https://github.com/zhangweize9-cyber/zhangweize9-cyber/blob/master/doc/INTRODUCTION.adoc)
 
 [^2]: To be honest, I'm not good at communicating in English. So I often use generative tools and translation software to polish my language. I've also been working hard to memorize core IELTS vocabulary, hoping to be able to write a pure English article on my own as soon as possible without the software!
@@ -120,5 +144,3 @@ int main() {
 [^protips]: Be careful! Always perform a full backup of the code before performing any dangerous operations! Also, and yes, I don't want you to use what I've taught you to do things that might be incomprehensible to those around you, but also very frightening!
 
 [^do-it-yourself]: I encourage you to keep exploring and trying as you learn a skill.
-
-</details>
