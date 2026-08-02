@@ -1,13 +1,22 @@
 <details open>
 <summary>Overview & Self-Introduction</summary>
 
-Hi everyone, I’m **original-cooling-space.** I’m an 18-year-old who’s really into low-level architecture! Gender: Male. You can also call me **the-essence-of-life.** I love playing rhythm games, and I’m interested in drawing. Right now, I’m a college student majoring in music education.
+Hi everyone, I’m **original-cooling-space.** I’m an 18-year-old who’s really into low-level architecture! Gender: Male. You can also call me **the-essence-of-life.** I love playing rhythm games, and I’m interested in drawing. Right now, I’m a college student majoring in music education. To be honest, I'm not good at communicating in English. So I often use generative tools and translation software to polish my language. I've also been working hard to memorize core IELTS vocabulary, hoping to be able to write a pure English article on my own as soon as possible without the software! I encourage you to keep exploring and trying as you learn a skill.
 
 </details>
 
+<details>
+<summary>Security & Identity</summary>
+
+- **GPG Key ID**: `0x81C350DF87556027`  
+- **Fingerprint**: `D0EA 60A0 B7CE 7FB4 B55B  8DE4 81C3 50DF 8755 6027`  
+- **Public Key**: `https://keys.openpgp.org/vks/v1/by-fingerprint/7D7271DB7516AA3F243BBC4A3A5F72163615B541`
+
+</details>
 
 <details>
 <summary>Environmental Testing Scripts</summary>
+
 
 > [!NOTE]  
 > This is a test script that will be moved to GitHub Gists in the future.  
@@ -129,18 +138,12 @@ print("Hello World from Github!")
 ```
 
 - Welcome back! 
-- If you want to learn more about, click here! [^1]
-- My English vocabulary isn't very precise, but I did write out the steps myself. [^2]
-- Do not execute `rm -rf /*` or `chmod 777 /*`! [^protips]
-- Keep it up! ^_^ I hope you all build a solid foundation! Otherwise, you'll end up in the same embarrassing situation as me, who isn't very good at English and has to use tools to polish my language! [^do-it-yourself]
+- If you want to learn more about, click here!  
+- My English vocabulary isn't very precise, but I did write out the steps myself.  
+- Do not execute `rm -rf /*` or `chmod 777 /*`!  
+- Keep it up! ^_^ I hope you all build a solid foundation! Otherwise, you'll end up in the same embarrassing situation as me, who isn't very good at English and has to use tools to polish my language!  
 - You can research my github [repository, ](https://github.com/zhangweize9-cyber/personal-toolbox-nocomment) [neovim configruations](https://github.com/zhangweize9-cyber/my-personal-neovim-configruation) and some github [gists.](https://gist.github.com/zhangweize9-cyber)
 
 </details>
 
-[^1]: [Here are introduce myself.](https://github.com/zhangweize9-cyber/zhangweize9-cyber/blob/master/doc/INTRODUCTION.adoc)
 
-[^2]: To be honest, I'm not good at communicating in English. So I often use generative tools and translation software to polish my language. I've also been working hard to memorize core IELTS vocabulary, hoping to be able to write a pure English article on my own as soon as possible without the software!
-
-[^protips]: Be careful! Always perform a full backup of the code before performing any dangerous operations! Also, and yes, I don't want you to use what I've taught you to do things that might be incomprehensible to those around you, but also very frightening!
-
-[^do-it-yourself]: I encourage you to keep exploring and trying as you learn a skill.
