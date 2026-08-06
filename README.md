@@ -7,14 +7,9 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
-<ul>
-<li><a target="_blank" href=""></a></li>
 <h2>Where to find me</h2>
 <p><a target="_blank" href="https://x.com/@originalcspace" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhangweize9-cyber&show_icons=true&locale=en" alt="zhangweize9-cyber" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhangweize9-cyber&" alt="zhangweize9-cyber" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zhangweize9-cyber&show_icons=true&locale=en&layout=compact" alt="zhangweize9-cyber" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhangweize9-cyber" alt="zhangweize9-cyber" /></a></p>
 
 <details>
 <summary>Overview & Self-Introduction</summary>
