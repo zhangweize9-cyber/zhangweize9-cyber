@@ -1,11 +1,29 @@
-<details open>
+<h1>Hi, I'm zhangweize9-cyber. </h1>
+<p>An active contributor to the llvm-project, skilled in maintaining benchmarking modules.</p>
+<h2>Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
+<ul>
+<li><a target="_blank" href=""></a></li>
+<h2>Where to find me</h2>
+<p><a target="_blank" href="https://x.com/@originalcspace" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhangweize9-cyber&show_icons=true&locale=en" alt="zhangweize9-cyber" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhangweize9-cyber&" alt="zhangweize9-cyber" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zhangweize9-cyber&show_icons=true&locale=en&layout=compact" alt="zhangweize9-cyber" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhangweize9-cyber" alt="zhangweize9-cyber" /></a></p>
+
+<details>
 <summary>Overview & Self-Introduction</summary>
 
 Hi everyone, I’m **original-cooling-space.** I’m an 18-year-old who’s really into low-level architecture! Gender: Male. You can also call me **the-essence-of-life.** I love playing rhythm games, and I’m interested in drawing. Right now, I’m a college student majoring in music education. To be honest, I'm not good at communicating in English. So I often use generative tools and translation software to polish my language. I've also been working hard to memorize core IELTS vocabulary, hoping to be able to write a pure English article on my own as soon as possible without the software! I encourage you to keep exploring and trying as you learn a skill.
 
 </details>
 
-<details>
+<details open>
 <summary>Security & Identity</summary>
 
 - **GPG Key ID**: `0x81C350DF87556027`  
@@ -131,7 +149,7 @@ int main() {
 </details>
 
 <details>
-  <summary>\# Do not expand</summary>
+  <summary>DO NOT EXPAND</summary>
   
 ```python
 print("Hello World from Github!")
@@ -145,5 +163,3 @@ print("Hello World from Github!")
 - You can research my github [repository, ](https://github.com/zhangweize9-cyber/personal-toolbox-nocomment) [neovim configruations](https://github.com/zhangweize9-cyber/my-personal-neovim-configruation) and some github [gists.](https://gist.github.com/zhangweize9-cyber)
 
 </details>
-
-
