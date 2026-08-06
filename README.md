@@ -1,5 +1,8 @@
-<h1>Hi, I'm zhangweize9-cyber. </h1>
-<p>An active contributor to the llvm-project, skilled in maintaining benchmarking modules.</p>
+<div style="text-align: center;">
+  <h2>Hi, I'm zhangweize9-cyber. </h2>
+  <p>An active contributor to the llvm-project, skilled in maintaining benchmarking modules.</p>
+</div>
+
 <h2>Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -14,7 +17,7 @@
 <details>
 <summary>Overview & Self-Introduction</summary>
 
-Hi everyone, I’m **original-cooling-space.** I’m an 18-year-old who’s really into low-level architecture! Gender: Male. You can also call me **the-essence-of-life.** I love playing rhythm games, and I’m interested in drawing. Right now, I’m a college student majoring in music education. To be honest, I'm not good at communicating in English. So I often use generative tools and translation software to polish my language. I've also been working hard to memorize core IELTS vocabulary, hoping to be able to write a pure English article on my own as soon as possible without the software! I encourage you to keep exploring and trying as you learn a skill.
+Hi everyone, I’m **original-cooling-space.** I’m an 18-year-old who’s really interested in the underlying architecture! Gender: Male. You can also call me **the-essence-of-life.** I love playing rhythm games, and I’m interested in drawing. Right now, I’m a college student majoring in music education. To be honest, I'm not good at communicating in English. So I often use generative tools and translation software to polish my language. I've also been working hard to memorize core IELTS vocabulary, hoping to be able to write a pure English article on my own as soon as possible without the software! I encourage you to keep exploring and trying as you learn a skill.
 
 </details>
 
