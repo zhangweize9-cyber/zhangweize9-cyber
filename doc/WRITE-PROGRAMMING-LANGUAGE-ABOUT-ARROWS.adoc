@@ -1,8 +1,0 @@
-= Introduction
-
-----
-I plan to tackle the issue of hard-to-read code using a more intuitive approach.
-In the past, when writing and maintaining programs, I was tormented by tangled functions and variables, often struggling to figure out how they were being used.
-So I developed my own conceptual language, arrows-programming-language, specifically designed to address readability and database integration.
-In the future, it will seamlessly connect with MySQL and display data in HTML interfaces.
-----

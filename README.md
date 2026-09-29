@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm zhangweize9-cyber. </h2>
-<p align="center">An active contributor to the llvm-project, skilled in maintaining benchmarking modules.</p>
+<p align="center">An active contributor to the llvm-project.</p>
 
 <h2>Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
